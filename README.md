@@ -16,4 +16,5 @@ Technologies Used:
 Installation 
       Clone the repository 
       Go to the project directory and run the following commands
+      npm install to install all the dependencies.
       npm run to start the application.
